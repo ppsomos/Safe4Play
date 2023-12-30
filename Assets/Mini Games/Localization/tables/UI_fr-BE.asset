@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_fr-BE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-BE
+  m_SharedData: {fileID: 11400000, guid: 9a9d8f6d1d91d614cbd2f6d9d9a6f193, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9768415232
+    m_Localized: Simulation du vaccin contre le VPH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75766251270144
+    m_Localized: "Ex\xE9cuter une simulation avec diff\xE9rents param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31188169142272
+    m_Localized: Infection au VPH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86217532942499840
+    m_Localized: Chargement..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86218178076786688
+    m_Localized: Comenzar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86218428464152576
+    m_Localized: "R\xE9initialiser la progression"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87236399194791936
+    m_Localized: FRench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227877811634176
+    m_Localized: Je grossis quand je mange mais je meurs plus faible quand je bois.
+      Qu'est-ce que je suis ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227879124451328
+    m_Localized: Qu'est-ce qui a des aiguilles mais pas de fil et un cadran?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86232999308476416
+    m_Localized: "Elle ne se m\xE9lange pas bien avec l'eau."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233010142363648
+    m_Localized: " Quand je suis utilis\xE9 avec une lamelle les choses peuvent \xEAtre
+      aggrandies"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233007898411008
+    m_Localized: "C'est rempli de lettre, de carr\xE9s et de nombres aussi.  Quel
+      jours sommes nous? Cela vous donnera un indice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233007055355904
+    m_Localized: "Je suis press\xE9 hors d'une bouteille mais je ne suis pas de la
+      colle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233005683818496
+    m_Localized: Parfois quand on est ici on choisit de chanter une chanson
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233004974981120
+    m_Localized: "Plus on est sec. Plus \xE7a devient humide"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233004337446912
+    m_Localized: "On me met de la p\xE2te, mais je ne colle pas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233003737661440
+    m_Localized: "Une drogue \xE0 petite dose"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233003074961408
+    m_Localized: "Je suis gaspilleur mais j'accueille les ind\xE9sirables. Que suis-je?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233002395484160
+    m_Localized: "Que donne-t-on \xE0 un citron en danger ?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 9a9d8f6d1d91d614cbd2f6d9d9a6f193
+  m_Entries:
+  - m_Id: 9768415232
+    m_Key: HPV Simulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31188169142272
+    m_Key: HPV Infection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75766251270144
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86217532942499840
+    m_Key: Loading..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86218178076786688
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86218428464152576
+    m_Key: Reset Progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219272454586368
+    m_Key: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219366272778240
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219368483176448
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219369187819520
+    m_Key: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219519243239424
+    m_Key: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219525689884672
+    m_Key: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219559709884416
+    m_Key: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219582765973504
+    m_Key: Arabic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219584611467264
+    m_Key: French
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86219585479688192
+    m_Key: Greek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86220426047569920
+    m_Key: Level Selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86220431416279040
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86220906710614016
+    m_Key: Language Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86220907448811520
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86221151322423296
+    m_Key: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227411451166720
+    m_Key: Riddles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227576702550016
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227577340084224
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227790276509696
+    m_Key: Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227818328014848
+    m_Key: Mini Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227819095572480
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227877081825280
+    m_Key: Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227877811634176
+    m_Key: I get bigger when I eat but die weaker when I drink. What am I?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227879124451328
+    m_Key: What has hands but no arms and a face but no eyes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86232999308476416
+    m_Key: It does not mix well with water.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233002395484160
+    m_Key: What do you give a lemon in danger?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233003074961408
+    m_Key: ' I am wasteful but home to those unwanted. What am I?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233003737661440
+    m_Key: A drug in small doses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233004337446912
+    m_Key: "I have paste put on me but I don\u2019t get sticky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233004974981120
+    m_Key: 'The more that you get dry
+
+      The more that it gets wet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233005683818496
+    m_Key: 'Sometimes when you get in this
+
+      You might choose to sing a song.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233007055355904
+    m_Key: 'I get squeezed from a bottle
+
+      But I am not sticky glue'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233007898411008
+    m_Key: It is filled with letters, squares and numbers too. What day is it? it
+      will give you a clue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233010142363648
+    m_Key: "When I\u2019m used with a slide, things can be magnified"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87236399194791936
+    m_Key: Disclaimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87236855899971584
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87238677339398144
+    m_Key: Gameover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87240495960252416
+    m_Key: The Worst Play Ever
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87240700956860416
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1673956623160

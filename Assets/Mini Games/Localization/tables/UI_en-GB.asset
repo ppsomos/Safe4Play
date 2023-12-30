@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 9a9d8f6d1d91d614cbd2f6d9d9a6f193, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9768415232
+    m_Localized: HPV Vaccine Simulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31188169142272
+    m_Localized: HPV Infection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75766251270144
+    m_Localized: "RUN SIMULATION WITH \nDIFFERENT PARAMETERS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86217532942499840
+    m_Localized: Loading..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86218178076786688
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86218428464152576
+    m_Localized: Reset Progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87236399194791936
+    m_Localized: Uk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227877811634176
+    m_Localized: I get bigger when I eat but die weaker when I drink. What am I?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227879124451328
+    m_Localized: What has hands but no arms and a face but no eyes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86232999308476416
+    m_Localized: It does not mix well with water.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233002395484160
+    m_Localized: What do you give a lemon in danger?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233003074961408
+    m_Localized: "\"I am wasteful but home to those unwanted. \n What am I?\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233003737661440
+    m_Localized: A drug in small doses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233004337446912
+    m_Localized: "I have paste put on me, but I don\u2019t get sticky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233004974981120
+    m_Localized: "\"The more that you get dry\n The more that it gets wet\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233005683818496
+    m_Localized: "\"Sometimes when you get in this\n You might choose to sing a song\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233007055355904
+    m_Localized: "\"I get squeezed from a bottle\n But I am not sticky glue\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233007898411008
+    m_Localized: It is filled with letters, squares and numbers too. What day is
+      it? it will give you a clue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86233010142363648
+    m_Localized: "\"When I\u2019m used with a slide, \n things can be magnified\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87240495960252416
+    m_Localized: The Worst Play Ever
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

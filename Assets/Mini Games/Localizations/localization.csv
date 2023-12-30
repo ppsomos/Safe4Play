@@ -1,0 +1,13 @@
+Key,Description,Standard,EL,AR,FR
+SAY.Flowchart.25.,,Likelihood of the subjects having sex in each interaction,Πιθανότητα τα άτομα να κάνουν σεξ όταν έρθουν σε επαφή,احتمال ممارسة الأشخاص للجنس في كل تواصل,La probabilité que les sujets aient des relations sexuelles dans chaque interaction.
+MENU.Flowchart.24,,60%,60%,60%,60%
+MENU.Flowchart.26,,100%,100%,100%,100%
+SAY.Flowchart.80.,,Men Population,Πληθυσμός ανδρών,عدد السكان الرجال,Population masculine
+MENU.Flowchart.32,,100 straight men,100 ετεροφυλόφιλοι άνδρες,100 رجل مستقيم,100 hommes hétérosexuels
+MENU.Flowchart.33,,200 gay men,200 ομοφυλόφιλοι άνδρες,200 رجل مثلي الجنس,200 hommes gays
+SAY.Flowchart.88.,,Population with the HPV vaccine,Πληθυσμός με το εμβόλιο HPV (ιού ανθρώπινων θηλωμάτων),السكان الملقحين بلقاح فيروس الورم الحليمي البشري,Population ayant reçu le vaccin contre le VPH
+MENU.Flowchart.36,,25%,25%,25%,25%
+MENU.Flowchart.37,,95%,95%,95%,95%
+SAY.Flowchart.108.,,Female Population,Γυναικείος Πληθυσμός,عدد السكان الإناث,Population féminine
+MENU.Flowchart.83,,100 straight women,100 ετεροφυλόφιλες γυναίκες,100 امرأة مستقيمة,100 femmes hétérosexuelles
+MENU.Flowchart.84,,"50 straight women, 50 bisexual women","50 ετεροφυλόφιλες γυναίκες, 50 αμφιφυλόφιλες (bisexual) γυναίκες","50 امرأة مستقيمة ، 50 امرأة ثنائية الجنس","50 femmes hétérosexuelles, 50 femmes bisexuelles"
